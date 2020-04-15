@@ -1,0 +1,14 @@
+scipy
+numpy
+pandas
+geopandas
+matplotlib
+geopy
+folium
+unidecode
+random
+csv
+simplekml
+sklearn
+pyroutelib3
+tsp_solver
