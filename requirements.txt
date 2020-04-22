@@ -2,6 +2,7 @@ scipy
 numpy
 sklearn
 pandas
+qgrid
 matplotlib
 folium
 geopandas
