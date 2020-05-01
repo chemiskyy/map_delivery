@@ -3,7 +3,7 @@ numpy
 sklearn
 pandas==1.0.3
 qgrid==1.3.1
-matplotlib
+matplotlib>=2.1.1
 folium
 geopandas
 geopy
@@ -11,3 +11,6 @@ unidecode
 simplekml
 pyroutelib3
 tsp_solver2
+ipywidgets>=7.0.0
+notebook>=4.0.0
+pandas-datareader>=0.5.0
