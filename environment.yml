@@ -18,4 +18,5 @@ dependencies:
   - folium
   - pip
   - pip:
-    - -r file:requirements.txt
+    - pyroutelib3
+    - tsp_solver2

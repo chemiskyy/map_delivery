@@ -1,2 +1,16 @@
+bqplot=0.11.2
+ipykernel
+qgrid
+voila
+scipy
+numpy
+matplotlib
+pandas
+pandas-datareader>=0.8.1
+geopandas
+geopy
+unidecode
+simplekml
+folium
 pyroutelib3
 tsp_solver2
