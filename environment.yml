@@ -6,3 +6,16 @@ dependencies:
   - ipykernel
   - qgrid
   - voila
+  - scipy
+  - numpy
+  - matplotlib
+  - pandas
+  - pandas-datareader>=0.8.1
+  - geopandas
+  - geopy
+  - unidecode
+  - simplekml
+  - folium
+  - pip
+  - pip:
+    - -r file:requirements.txt
