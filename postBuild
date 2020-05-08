@@ -3,8 +3,7 @@
 jupyter labextension install @jupyter-widgets/jupyterlab-manager qgrid2
 jupyter labextension enable @jupyter-widgets/jupyterlab-manager qgrid2
 
-jupyter nbextension install voila --sys-prefix --py
 jupyter nbextension enable --py --sys-prefix qgrid
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
-jupyter nbextension enable --py --sys-prefix voila
+
 

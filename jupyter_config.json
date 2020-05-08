@@ -1,12 +1,6 @@
 {
     "VoilaConfiguration": {
+        "theme": "dark"
         "enable_nbextensions": true,
-        "extension_language_mapping": {
-            ".py": "python",
-            ".jl": "julia"
-        },
-        "language_kernel_mapping": {
-            "python": "python3"
-        }
     }
 }
