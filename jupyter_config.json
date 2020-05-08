@@ -1,6 +1,5 @@
 {
     "VoilaConfiguration": {
-        "theme": "dark",
         "enable_nbextensions": true,
         "extension_language_mapping": {
             ".py": "python",
