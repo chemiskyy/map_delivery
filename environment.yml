@@ -4,6 +4,10 @@ channels:
 dependencies:
   - bqplot=0.11.2
   - ipykernel
+  - jupyter
+  - jupyterlab
+  - nb_conda_kernels
+  - ipython
   - voila
   - scipy
   - numpy
