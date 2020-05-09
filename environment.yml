@@ -14,14 +14,11 @@ dependencies:
   - unidecode
   - simplekml
   - folium
+  - voila
+  - voila-material
+  - voila-gridstack
   - pip
   - pip:
-  - pip
-  - pip:
-    - voila>=0.1.21
-    - voila-material
-    - voila-gridstack
-    - ipywidgets>=7.5.1
     - bqplot>=0.11.2
     - ipysheet>=0.4.4
     - pyroutelib3
