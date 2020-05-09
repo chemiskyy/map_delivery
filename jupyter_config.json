@@ -1,5 +1,6 @@
 {
-    "VoilaConfiguration": {
-        "theme": "dark",
-    }
+  "VoilaConfiguration": {
+    "template": "material",
+    "enable_nbextensions": true
+  }
 }
