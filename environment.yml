@@ -2,13 +2,8 @@ name: clustering
 channels:
   - conda-forge
 dependencies:
-  - bqplot=0.11.2
+  - python=3.8
   - ipykernel
-  - jupyter
-  - jupyterlab
-  - nb_conda_kernels
-  - ipython
-  - voila
   - scipy
   - numpy
   - matplotlib
@@ -21,6 +16,13 @@ dependencies:
   - folium
   - pip
   - pip:
+  - pip
+  - pip:
+    - voila>=0.1.21
+    - voila-material
+    - voila-gridstack
+    - ipywidgets>=7.5.1
+    - bqplot>=0.11.2
+    - ipysheet>=0.4.4
     - pyroutelib3
     - tsp_solver2
-    - qgrid>=1.3.0
